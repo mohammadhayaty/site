@@ -1,0 +1,16 @@
+@import "bootstrap.min";
+@import "fonts";
+html,body{
+    background-color: #e0e2e4;
+}
+.card-custom-1{
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid rgba(#000 , .3);
+    padding: 12px;
+}
+.table-img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
